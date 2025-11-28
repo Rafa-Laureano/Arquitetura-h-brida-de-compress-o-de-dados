@@ -1,0 +1,1 @@
+# Arquitetura-h-brida-de-compress-o-de-dados
