@@ -7,7 +7,7 @@ Repositório de códigos, dados e experimentos do trabalho que investiga uma arq
 ## Visão geral da arquitetura
 
 [<!-- Atualize o caminho abaixo conforme a organização do repositório -->
-arquitetura proposta.png](https://github.com/Rafa-Laureano/Arquitetura-h-brida-de-compress-o-de-dados/blob/4c6036c8084c1bb5b08b42e2ea0aaec66d89b622/arquitetura%20proposta.png)
+(https://github.com/Rafa-Laureano/Arquitetura-h-brida-de-compress-o-de-dados/blob/4c6036c8084c1bb5b08b42e2ea0aaec66d89b622/arquitetura%20proposta.png)]
 
 Na arquitetura proposta:
 
