@@ -7,7 +7,7 @@ Repositório de códigos, dados e experimentos do trabalho que investiga uma arq
 ## Visão geral da arquitetura
 
 <!-- Atualize o caminho abaixo conforme a organização do repositório -->
-![Arquitetura híbrida de compressão em gateway inteligente](docs/img/arquitetura_gateway.png)
+!arquitetura proposta.png
 
 Na arquitetura proposta:
 
